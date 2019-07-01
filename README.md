@@ -1,4 +1,4 @@
-# Python Event - Hosted at EPAM Poland DevOps Community
+# Python Talks
 
 ## Python Language - The basics 
 
