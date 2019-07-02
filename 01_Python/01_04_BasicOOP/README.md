@@ -4,4 +4,3 @@
 * Constructor
 * Functions (Private and Public)
 * Inheritance
-* 

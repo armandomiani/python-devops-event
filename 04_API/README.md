@@ -7,4 +7,3 @@
 * Create mock endpoints
 * Receive parameters and headers
 * Respond headers
-* Connect to an external API
