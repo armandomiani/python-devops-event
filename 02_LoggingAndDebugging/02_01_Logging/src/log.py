@@ -1,5 +1,6 @@
 import logging
 import pprint
+import sys
 
 
 logging.basicConfig(level=logging.DEBUG)
@@ -14,7 +15,9 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
 fh = logging.FileHandler('/log.txt')
+sh = logging.StreamHandler(sys.stdout)
 logger.addHandler(fh)
+logger.addHandler(sh)
 
 
 def calc(x, y):

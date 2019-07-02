@@ -5,7 +5,7 @@
 * logging package 
 * Level order
 * File handler
-* Format string
+* Stream handler
 * Using pprint
 
 
