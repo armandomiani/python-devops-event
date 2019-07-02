@@ -19,5 +19,5 @@ def run_package():
     print(client.get_users())
 
 if __name__ == '__main__':
-    # run_module()
-    run_package()
+    run_module()
+    # run_package()

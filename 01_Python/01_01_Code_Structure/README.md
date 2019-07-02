@@ -19,3 +19,4 @@ docker run -it --name pvt -v $(pwd)/src:/scripts python:3.7 bash
 * Custom import name
 * Writing packages
 * Exploring modules
+* __code__ will get a code object and co_name and co_varnames will return the parameter list
